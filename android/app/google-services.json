@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301348760105",
+    "project_id": "mindly-461bb",
+    "storage_bucket": "mindly-461bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301348760105:android:b03aaa9566891ae1978a38",
+        "android_client_info": {
+          "package_name": "com.example.mindly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZlJFTjYFgakzUVYTcUrNJ3GviJkvyibU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
